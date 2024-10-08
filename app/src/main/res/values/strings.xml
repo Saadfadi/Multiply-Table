@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiply Table</string>
+    <string name="enter_a_number">Enter A Number</string>
+    <string name="generate_table">Generate Table</string>
+</resources>
